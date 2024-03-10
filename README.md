@@ -12,7 +12,7 @@ Para los estilos, este proyecto utiliza Bootstrap, un marco de diseño de códig
 
 ## Uso
 
-Para ver este proyecto, simplemente abra el archivo `restaurante_menu.html` en su navegador. Asegúrese de tener todos los archivos del proyecto descargados y en la misma carpeta para que los estilos de Bootstrap y cualquier otro archivo vinculado funcione correctamente.
+Para ver este proyecto, simplemente abra el archivo `index.html` en su navegador. Asegúrese de tener todos los archivos del proyecto descargados y en la misma carpeta para que los estilos de Bootstrap y cualquier otro archivo vinculado funcione correctamente.
 
 ## Licencia
 
