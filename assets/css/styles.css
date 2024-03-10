@@ -1,0 +1,16 @@
+.comprar {
+  width: 100%;
+}
+
+.fit-cover {
+  object-fit: cover;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+textarea {
+  margin-bottom: 10px;
+}
+
